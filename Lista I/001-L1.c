@@ -1,6 +1,8 @@
 /*
     LISTA I - EX001
     Escreva um programa em C que peça ao usuário para digitar dois números, obtenha-os do usuário e imprima a soma, o produto, a diferença, o quociente e o resto da divisão dos dois números.
+
+    Desenvolvido Por Isaque
 */
 
 /*
@@ -18,11 +20,11 @@ int main()
 
 
     // Solicitando o primeiro número ao usuário
-    printf("Type the first number:\n"); 
+    printf("Enter the first number:\n"); 
     scanf("%d", &num_1); // Armazena o número digitado na variável "num_1"
 
     // Solicitando o segundo número ao usuário
-    printf("Type the second number:\n");
+    printf("Enter the second number:\n");
     scanf("%d", &num_2); // Armazena o número digitado na variável "num_2"
 
     // Realizando Operações

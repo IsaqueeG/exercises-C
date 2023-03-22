@@ -3,6 +3,7 @@
     Escreva um programa em C que imprima um retângulo, uma elipse, uma seta e um losango.
 	Obs: a disposição das figuras na tela fica ao seu critétio.
 
+    Desenvolvido Por Isaque
 */
 
 

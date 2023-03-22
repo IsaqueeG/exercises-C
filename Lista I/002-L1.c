@@ -5,6 +5,8 @@
     a) Usando uma instrução printf, sem especificadores de conversão. 
     b) Usando uma instrução printf, com especificadores de conversão. 
     c) Usando quatro instruções printf.
+
+    Desenvolvido Por Isaque
 */
 
 #include <stdio.h>
