@@ -4,7 +4,7 @@ Este repositório foi criado com o objetivo de compartilhar soluções para list
 
 🌎 **English Version Available ->** [Here](README.en.md)
 
-## Listas de Exercícios
+## Listas de Exercícios 
 
 ### Lista I: Operações Básicas e Funções
 
