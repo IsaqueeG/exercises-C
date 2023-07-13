@@ -2,7 +2,7 @@
 
 Este repositório foi criado com o objetivo de compartilhar soluções para listas de exercícios em linguagem C. Os exercícios são voltados para iniciantes e abrangem diversos conceitos fundamentais de programação em C.
 
-:us: **English version available** [here](README.en.md)
+🌎 **English Version Available ->** [Here](README.en.md)
 
 ## Listas de Exercícios
 
