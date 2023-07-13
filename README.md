@@ -1,25 +1,27 @@
-# C Exercises Repository
+# Repositório de Exercícios em C
 
-This repository is created with the purpose of sharing solutions to C language exercise lists. The exercises are aimed at beginners and cover various fundamental concepts of programming in C.
+Este repositório foi criado com o objetivo de compartilhar soluções para listas de exercícios em linguagem C. Os exercícios são voltados para iniciantes e abrangem diversos conceitos fundamentais de programação em C.
 
-## Exercise Lists
+:us: **English version available** [here](README.en.md)
 
-### List I: Basic Operations and Functions
+## Listas de Exercícios
 
-This list focuses on basic operations and functions in C. It covers topics such as data types, arithmetic operations, conditional statements, and basic input/output operations. Each exercise solution is accompanied by detailed comments explaining the logic and approach used.
+### Lista I: Operações Básicas e Funções
 
-### List II: Conditional Control Structures & Selection
+Esta lista aborda operações básicas e funções em C. Ela cobre tópicos como tipos de dados, operações aritméticas, estruturas condicionais e operações básicas de entrada/saída. Cada solução de exercício é acompanhada de comentários detalhados explicando a lógica e a abordagem utilizadas.
 
-The exercises in this list revolve around conditional control structures and selection in C. Topics covered include if-else statements, switch statements, and logical operators. The solutions provided are commented extensively, highlighting the reasoning behind the chosen approach.
+### Lista II: Estruturas de Controle Condicional e Seleção
 
-### List III: Loop Control Structures
+Os exercícios desta lista envolvem estruturas de controle condicional e seleção em C. Os tópicos abordados incluem declarações if-else, declarações switch e operadores lógicos. As soluções fornecidas são extensivamente comentadas, destacando o raciocínio por trás da abordagem escolhida.
 
-List III deals with loop control structures in C, specifically the concepts of repetition and iteration. The exercises cover while loops, do-while loops, and for loops. The solutions provided are thoroughly commented to aid understanding and showcase the logic used to solve each problem.
+### Lista III: Estruturas de Controle de Repetição
 
-### List IV: Modularization - Functions
+A Lista III trata das estruturas de controle de repetição em C, especificamente os conceitos de repetição e iteração. Os exercícios abrangem loops while, do-while e for. As soluções fornecidas são comentadas detalhadamente para auxiliar na compreensão e demonstrar a lógica utilizada para resolver cada problema.
 
-The exercises in this list focus on modularization and the use of functions in C. Topics covered include function declaration, definition, and calling. The solutions demonstrate how to break down complex problems into smaller, manageable tasks using functions. Detailed comments accompany each solution, providing insights into the design choices made.
+### Lista IV: Modularização - Funções
 
-Feel free to explore the repository and access the exercise lists. You can find the solutions in the respective directories for each list. If you have any questions or suggestions, please feel free to open an issue or submit a pull request.
+Os exercícios desta lista têm como foco a modularização e o uso de funções em C. Os tópicos abordados incluem declaração, definição e chamada de funções. As soluções demonstram como dividir problemas complexos em tarefas menores e gerenciáveis usando funções. Comentários detalhados acompanham cada solução, fornecendo insights sobre as escolhas de design feitas.
 
-Happy coding!
+Sinta-se à vontade para explorar o repositório e acessar as listas de exercícios. Você pode encontrar as soluções nos respectivos diretórios de cada lista. Se tiver alguma dúvida ou sugestão, fique à vontade para abrir uma issue ou enviar um pull request.
+
+Bons estudos!
